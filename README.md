@@ -8,3 +8,7 @@ Eeste modelo presenta la estructura basica de un modulo apiRest con las peticion
 - Put
 - Post
 - Delete
+
+## Tag V1.0.0
+
+En el Tag V1.0.0 se encuentra la estructura basica de un REST Server con la cofiguración de rutas y demás para inciar un proyecto con un modelo basico
